@@ -17,20 +17,10 @@ To investigate whether consistent real-world textures (like a toothbrush or sand
 
 - **Unity** (with XR Interaction Toolkit)
 - **Meta Quest 2** headset
-- **Simple props**: toothbrush, paintbrush, sandpaper
+- **Simple props**: toothbrush, paintbrush, pencil
 - **Screen mirroring**: iPad or laptop for facilitator view
 - **Survey**: Google Forms (template included)
 - *(Optional)* Heart rate monitor for biometric feedback
-
-## 📁 Folder Structure
-
-📦VR-Injury-Response
-┣ 📂Scripts
-┣ 📂Survey
-┃ ┗ 📄Post_Experience_Survey_Template.pdf
-┣ 📂Documentation
-┃ ┗ 📄Project_Report.pdf
-┗ 📄README.md
 
 ## 📊 Key Findings
 
